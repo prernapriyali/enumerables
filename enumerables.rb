@@ -4,26 +4,23 @@
 # rubocop:disable Metrics/ModuleLength
 
 module Enumerable
-    def my_each
+def my_each
       return to_enum unless block_given?
-  
       arr = to_a
       arr.length.times { |item| yield(arr[item]) }
       self
     end
   
-    def my_each_with_index
-      return to_enum unless block_given?
-  
+def my_each_with_index
+      return to_enum unless block_given?  
       arr = to_a
       arr.length.times { |item| yield(arr[item], item) }
       self
     end
   
-    def my_select
+def my_select
       return to_enum unless block_given?
-  
-      new_arr = []
+    new_arr = []
       my_each { |item| new_arr.push(item) if yield(item) }
       new_arr
     end
