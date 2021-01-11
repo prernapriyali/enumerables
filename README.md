@@ -3,6 +3,11 @@ Project to re-build a few methods of Ruby Language.## Built With
 
 - Ruby
 
+Eight Ruby Microverse Project By Oscar Russi
+
+![screenshot](./screenshot.png)
+
+
 ### Prerequisites
 
 - Browser (Google Chrome, Mozilla Firefox, Safari or any other browser)
