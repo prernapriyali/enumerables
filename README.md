@@ -5,7 +5,7 @@ Project to re-build a few methods of Ruby Language.## Built With
 
 Eight Ruby Microverse Project By Oscar Russi
 
-![screenshot](./screenshot.png)
+![screenshot](./Screenshot.png)
 
 
 ### Prerequisites
