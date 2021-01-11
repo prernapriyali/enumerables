@@ -10,7 +10,7 @@ Project to re-build a few methods of Ruby Language.## Built With
 ### Setup
 
 - Download or clone the repository's files
-- Run the code in your local ide
+- Run the code in your local IDE
 - Additionally, You can go to https://repl.it and select language ruby, copy paste the method.
 
 ## Author
@@ -39,6 +39,5 @@ Give a ⭐️ if you like this project!
 - Ruby
 
 ## 📝 License
-
 
 This project is [MIT](LICENSE) licensed.
